@@ -9,8 +9,8 @@
 
 Some things about me:
 
-- 20 years;
+- 21 years;
 - Computer Technician;
-- Technologist in Analysis and system development;
 - I'm a fullstack developer;
 - Greater front-end experience;
+- Technologist in Analysis and system development;
