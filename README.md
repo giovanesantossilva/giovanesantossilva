@@ -14,4 +14,9 @@ Some things about me:
 - Computer Technician;
 - I'm a fullstack developer;
 - Greater front-end experience;
+
+Formation:
+
+- Computer Technician
 - Technologist in Analysis and system development;
+- Specialist in web technologies and innovations;
