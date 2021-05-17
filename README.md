@@ -11,8 +11,6 @@
 Some things about me:
 
 - 21 years;
-- Computer Technician;
-- I'm a fullstack developer;
 - Greater front-end experience;
 
 Formation:
