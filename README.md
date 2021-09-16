@@ -18,3 +18,4 @@ Formation:
 - Computer Technician
 - Technologist in Analysis and system development;
 - Specialist in web technologies and innovations;
+- Specialist in full stack web development;
