@@ -15,7 +15,7 @@ Some things about me:
 
 Formation:
 
-- Course Computer Technician;
-- Technologist in Analysis and system development;
-- Specialist in web technologies and innovations;
-- Specialist in full stack web development;
+- Course: Computer Technician;
+- Graduate: Technologist in Analysis and system development;
+- Postgraduate: Specialist in web technologies and innovations;
+- Postgraduate: Specialist in full stack web development;
