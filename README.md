@@ -10,7 +10,7 @@
 
 Some things about me:
 
-- 21 years;
+- 22 years;
 - Greater front-end experience;
 
 Formation:
