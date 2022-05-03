@@ -15,7 +15,8 @@ Some things about me:
 
 Formation:
 
-- Course: Computer Technician;
-- Graduate: Technologist in Analysis and system development;
-- Postgraduate: Specialist in web technologies and innovations;
-- Postgraduate: Specialist in full stack web development;
+- Course: Computer Technician; 2016;
+- Graduate: Technologist in Analysis and system development; 2020;
+- Empowerment: Math; 2021;
+- Postgraduate: Specialist in web technologies and innovations; 2022;
+- Postgraduate: Specialist in full stack web development; 2022;
