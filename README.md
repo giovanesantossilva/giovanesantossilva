@@ -10,8 +10,9 @@
 
 Some things about me:
 
-- 22 years;
+- 23 years;
 - Greater front-end experience;
+- Average back-end experience;
 
 Formation:
 
@@ -20,3 +21,5 @@ Formation:
 - Empowerment: Math; 2021;
 - Postgraduate: Specialist in web technologies and innovations; 2022;
 - Postgraduate: Specialist in full stack web development; 2022;
+- Studing: Course Fullcycle, 2023;
+- Studing: Courses Rocketseat, 2023;
