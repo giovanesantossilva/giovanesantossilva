@@ -23,3 +23,4 @@ Formation:
 - Postgraduate: Specialist in full stack web development; 2022;
 - Studing: Course Fullcycle, 2023;
 - Studing: Courses Rocketseat, 2023;
+- Studing: Course Clean Arch & Clean Code, 2023;
