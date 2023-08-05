@@ -1,4 +1,7 @@
-# :man_technologist: I'm Giovane Santos Silva
+# I'm Giovane Santos Silva
+> Front-end Lead/Architect
+
+Talk to me!
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=giovanesantossilva.giovanesantossilva)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nykollemalone/)](https://www.linkedin.com/in/giovane-santos-silva-a63790156/)
