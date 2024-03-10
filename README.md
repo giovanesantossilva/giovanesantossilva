@@ -24,6 +24,5 @@ Formation:
 - Empowerment: Math; 2021;
 - Postgraduate: Specialist in web technologies and innovations; 2022;
 - Postgraduate: Specialist in full stack web development; 2022;
-- Studing: Course Fullcycle, 2023;
-- Studing: Courses Rocketseat, 2023;
-- Studing: Course Clean Arch & Clean Code, 2023;
+- Conclude: Course Clean Arch & Clean Code, 2023;
+- Postgraduate: Specialist in data sciences and artificial intelligence; 2024;
