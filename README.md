@@ -13,7 +13,7 @@ I am passionate about technology and have extensive experience in front-end and 
 
 ### About Me
 
-- Age: 25
+- Age: 26
 - Main Skills: Front-end & Back-end development
 - Main Languages: PHP, Go, JavaScript and Python
 - Focus: Artificial intelligence, Clean code, Scalable architecture, and Cutting-edge technology solutions
